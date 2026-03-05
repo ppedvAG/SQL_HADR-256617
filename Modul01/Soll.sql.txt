@@ -1,0 +1,22 @@
+Was ist das Ziel?
+
+Ausfall eines Service überbrücken?
+CLuster
+
+Ausfall einer DB überbrücken?
+Availability Group
+Spiegelung
+evtl Logshipping
+
+
+Replika lesber?
+Logshipping
+Availability Groups
+
+DB Synchron?
+AVG
+Spiegelunbg
+
+Wartung als Kriterium. Komplex oder einfach
+
+Kosten ? Lizenzen , Hardware
